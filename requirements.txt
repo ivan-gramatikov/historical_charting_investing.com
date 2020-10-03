@@ -1,0 +1,4 @@
+investpy
+datetime
+pandas
+matplotlib
