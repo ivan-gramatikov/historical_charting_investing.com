@@ -5,4 +5,5 @@ Small and simple script to get historical financial data, fixes a small data lap
 run:
 
 pip3 install -r requirement.txt
+
 python3 main.py
